@@ -1,0 +1,7 @@
+C:\Users\elev\source\repos\Grafph with classes\Grafph with classes\bin\Debug\Grafph with classes.exe.config
+C:\Users\elev\source\repos\Grafph with classes\Grafph with classes\bin\Debug\Grafph with classes.exe
+C:\Users\elev\source\repos\Grafph with classes\Grafph with classes\bin\Debug\Grafph with classes.pdb
+C:\Users\elev\source\repos\Grafph with classes\Grafph with classes\obj\Debug\Grafph with classes.csprojResolveAssemblyReference.cache
+C:\Users\elev\source\repos\Grafph with classes\Grafph with classes\obj\Debug\Grafph with classes.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\Grafph with classes\Grafph with classes\obj\Debug\Grafph with classes.exe
+C:\Users\elev\source\repos\Grafph with classes\Grafph with classes\obj\Debug\Grafph with classes.pdb
